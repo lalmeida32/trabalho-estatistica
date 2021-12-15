@@ -6,7 +6,7 @@
  4. [Lucas Ferreira de Almeida](https://github.com/lucasalmeida-pd), 11262063
 
 ## Objetivo
-Trabalho feito para a disciplina SME0123 - Estatística (2021_2), onde temos que analisar a base dados sobre o COVID 19 no Espírito Santo disponível no Datasus. Nesta análise vamos responder os seguintes questionamentos:
+Trabalho feito para a disciplina SME0123 - Estatística (2021_2), onde temos que analisar a base dados sobre o COVID 19 no Espírito Santo disponível no OpenDataSus. Nesta análise vamos responder os seguintes questionamentos:
 
  1. Quais os sintomas mais relacionados a óbitos por COVID-19?
  2. Homens e mulheres são igualmente suscetíveis a se curarem do vírus da COVID-19?
