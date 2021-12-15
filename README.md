@@ -1,9 +1,9 @@
 # Trabalho Estatística - COVID 19 no Espírito Santo
 ## Alunos: 
- 1. Adrio Oliveira Alves, 11796830
- 2. Eduardo Vinicius Barbosa Rossi, 10716887
- 3. Guilherme Ramos Costa Paixão, 11796079
- 4. Lucas Ferreira de Almeida, 11262063
+ 1. [Adrio Oliveira Alves](https://github.com/adriooa), 11796830
+ 2. [Eduardo Vinicius Barbosa Rossi](https://github.com/RossiEduardo), 10716887
+ 3. [Guilherme Ramos Costa Paixão](https://github.com/gp2112), 11796079
+ 4. [Lucas Ferreira de Almeida](https://github.com/lucasalmeida-pd), 11262063
 
 ## Objetivo
 Trabalho feito para a disciplina SME0123 - Estatística (2021_2), onde temos que analisar a base dados sobre o COVID 19 no Espírito Santo disponível no Datasus. Nesta análise vamos responder os seguintes questionamentos:
