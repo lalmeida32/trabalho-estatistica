@@ -19,4 +19,5 @@ Trabalho feito para a disciplina SME0123 - Estatística (2021_2), onde temos que
  1. Ter Python 3.9  ou acima instalado
  2. Instalar as bibliotecas necessárias
     `pip install -r requirements.txt`
- 3.  Rodar o código em um Notebook (Jupyter Notebook, Google Colaboratory...)
+ 4. Baixar os dados utilizados [aqui](https://drive.google.com/file/d/1SLwjvd_KdZydhoes6qhJeCm8H-bJqcOg/view)
+ 3.  Executar o código em um Notebook (Jupyter Notebook, Google Colaboratory...)
